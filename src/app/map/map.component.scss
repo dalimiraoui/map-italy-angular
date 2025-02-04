@@ -53,65 +53,66 @@ svg {
 
 /* Define shades of green for the regions */
 .abruzzo {
-  fill: #c7f5d0; /* Light green for 3 universities */
+  fill: #97dfad; /* Medium green for 10 universities */
 }
 .basilicata {
-  fill: #d9fbe4; /* Very light green for 2 universities */
-}
-.calabria {
-  fill: #a7e3b4; /* Medium green for 4 universities */
-}
-.campania {
-  fill: #85d69a; /* Darker green for 7 universities */
-}
-.emilia-romagna {
-  fill: #85d69a; /* Darker green for 7 universities */
-}
-.friuli-venezia-giulia {
   fill: #c7f5d0; /* Light green for 3 universities */
 }
+.calabria {
+  fill: #97dfad; /* Medium green for 10 universities */
+}
+.campania {
+  fill: #4cae63; /* Dark green for 16 universities */
+}
+.emilia-romagna {
+  fill: #4cae63; /* Dark green for 16 universities */
+}
+.friuli-venezia-giulia {
+  fill: #c7f5d0; /* Light green for 6 universities */
+}
 .lazio {
-  fill: #4cae63; /* Dark green for 14 universities */
+  fill: #5fc97a; /* Darker green for 15 universities */
 }
 .liguria {
-  fill: #d9fbe4; /* Very light green for 2 universities */
+  fill: #d9fbe4; /* Very light green for 5 universities */
 }
 .lombardia {
-  fill: #5fc97a; /* Darker green for 12 universities */
+  fill: #4fae68; /* Dark green for 21 universities */
 }
 .marche {
-  fill: #a7e3b4; /* Medium green for 4 universities */
+  fill: #97dfad; /* Medium green for 10 universities */
 }
 .molise {
-  fill: #e6fced; /* Lightest green for 1 university */
+  fill: #e6fced; /* Lightest green for 2 universities */
 }
 .piemonte {
-  fill: #85d69a; /* Darker green for 7 universities */
+  fill: #a7e3b4; /* Medium green for 13 universities */
 }
 .puglia {
-  fill: #97dfad; /* Medium green for 5 universities */
+  fill: #5fc97a; /* Darker green for 15 universities */
 }
 .sardegna {
-  fill: #d9fbe4; /* Very light green for 2 universities */
+  fill: #c7f5d0; /* Light green for 6 universities */
 }
 .sicilia {
-  fill: #97dfad; /* Medium green for 6 universities */
+  fill: #a7e3b4; /* Medium green for 14 universities */
 }
 .toscana {
-  fill: #70cf89; /* Dark green for 10 universities */
+  fill: #4fae68; /* Dark green for 22 universities */
 }
 .trentino-alto-adige {
-  fill: #a7e3b4; /* Medium green for 4 universities */
+  fill: #c7f5d0; /* Light green for 7 universities */
 }
 .umbria {
-  fill: #d9fbe4; /* Very light green for 2 universities */
+  fill: #d9fbe4; /* Very light green for 6 universities */
 }
 .valle-d-aosta {
   fill: #e6fced; /* Lightest green for 1 university */
 }
 .veneto {
-  fill: #76d391; /* Dark green for 9 universities */
+  fill: #a7e3b4; /* Medium green for 14 universities */
 }
+
 
 /* Basic styling for the map */
 svg {
