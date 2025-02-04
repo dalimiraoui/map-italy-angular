@@ -1,0 +1,1162 @@
+{
+    "IT65": {
+        "name": "Abruzzo",
+        "universities": [
+            {
+                "name": "University of L'Aquila",
+                "address": "Palazzo Camponeschi, Piazza Santa Margherita 2, 67100, L'Aquila, AQ, Italy",
+                "websiteUniversity": "https://www.univaq.it"
+            },
+            {
+                "name": "Telematic University 'LEONARDO da VINCI'",
+                "address": "Piazza San Rocco, 2, 66010, Torrevecchia Teatina, CH, Italy",
+                "websiteUniversity": "https://www.unidav.it"
+            },
+            {
+                "name": "Gran Sasso Science Institute - International Doctoral School",
+                "address": "Viale F. Crispi, 7, 67100, L'Aquila, AQ, Italy",
+                "websiteUniversity": "https://www.gssi.it"
+            },
+            {
+                "name": "University of Teramo",
+                "address": "Via Renato Balzarini, 1, 64100, Teramo, TE, Italy",
+                "websiteUniversity": "https://www.unite.it"
+            },
+            {
+                "name": "University 'G. d'Annunzio' of Chieti-Pescara",
+                "address": "Via dei Vestini, 31 Campus Universitario, 66013, Chieti Scalo, CH, Italy",
+                "websiteUniversity": "https://www.unich.it"
+            },
+            {
+                "name": "Higher Institute of Musical and Choreographic Studies of Teramo",
+                "address": "Piazza G. Verdi, 25, 64100, Teramo, TE, Italy",
+                "websiteUniversity": "http://www.istitutoteramo.it"
+            },
+            {
+                "name": "ISIA of Pescara",
+                "address": "Via Cesare Battisti, 198, 65123, Pescara, PE, Italy",
+                "websiteUniversity": "http://www.isiapescara.it"
+            },
+            {
+                "name": "Academy of Fine Arts of L'Aquila",
+                "address": "Via Leonardo Da Vinci, loc. Pettino, 67100, L'Aquila, AQ, Italy",
+                "websiteUniversity": "https://www.abruzzoacademia.it"
+            },
+            {
+                "name": "Conservatory of Music of L'Aquila",
+                "address": "Via Gaglioffi, 18, 67100, L'Aquila, AQ, Italy",
+                "websiteUniversity": "https://www.conslaquila.it"
+            },
+            {
+                "name": "Conservatory of Music of Pescara",
+                "address": "Via Caduti sul lavoro, 39, 65123, Pescara, PE, Italy",
+                "websiteUniversity": "https://www.conservatoriopescara.it"
+            }
+        ]
+    },
+    "IT77": {
+        "name": "Basilicata",
+        "universities": [
+            {
+                "name": "University of Basilicata",
+                "address": "Via Nazario Sauro, 85, 85100, Potenza, PZ, Italy",
+                "websiteUniversity": "https://www.unibas.it"
+            },
+            {
+                "name": "Conservatory of Music of Potenza",
+                "address": "Via Tammone, 1, 85100, Potenza, PZ, Italy",
+                "websiteUniversity": "https://www.conservatoriopotenza.it"
+            },
+            {
+                "name": "Conservatory of Music of Matera",
+                "address": "Piazza del Sedile, 75100, Matera, MT, Italy",
+                "websiteUniversity": "https://www.conservatoriomatera.it"
+            }
+        ]
+    },
+    "IT23": {
+        "name": "Valle d'Aosta",
+        "universities": [
+            {
+                "name": "University of Valle d'Aosta",
+                "address": "Strada Cappuccini, 2A, 11100, Aosta, AO, Italy",
+                "websiteUniversity": "https://www.univda.it"
+            }
+        ]
+    },
+    "IT21": {
+        "name": "Piedmont",
+        "universities": [
+            {
+                "name": "Polytechnic University of Turin",
+                "address": "Corso Duca degli Abruzzi, 24, 10129, Turin, TO, Italy",
+                "websiteUniversity": "https://www.polito.it"
+            },
+            {
+                "name": "University of Gastronomic Sciences",
+                "address": "Piazza Vittorio Emanuele, 9, 12060, Bra - Frazione Pollenzo, CN, Italy",
+                "websiteUniversity": "https://www.unisg.it"
+            },
+            {
+                "name": "University of Eastern Piedmont",
+                "address": "Via Duomo, 6, 13100, Vercelli, VC, Italy",
+                "websiteUniversity": "https://www.uniupo.it"
+            },
+            {
+                "name": "University of Turin",
+                "address": "Via Verdi, 8, 10124, Turin, TO, Italy",
+                "websiteUniversity": "https://www.unito.it"
+            },
+            {
+                "name": "Scuola del Teatro Musicale",
+                "address": "Piazza Martiri della Libertà 2, 28100, Novara, NO, Italy",
+                "websiteUniversity": "https://www.scuolateatromusicale.it"
+            },
+            {
+                "name": "Conservatory of Music of Alessandria",
+                "address": "Via Parma, 1, 15121, Alessandria, AL, Italy",
+                "websiteUniversity": "https://www.conservatoriocasella.it"
+            },
+            {
+                "name": "Istituto d'Arte Applicata e Design (IAAD) - Turin",
+                "address": "Turin, TO, Italy",
+                "websiteUniversity": "https://www.iaad.it"
+            },
+            {
+                "name": "Istituto Europeo di Design (IED) - Turin",
+                "address": "Turin, TO, Italy",
+                "websiteUniversity": "https://www.ied.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Cuneo",
+                "address": "Cuneo, CN, Italy",
+                "websiteUniversity": "https://www.accademiacuneo.it"
+            },
+            {
+                "name": "Conservatory of Music of Novara",
+                "address": "Via Collegio Gallarini, 1, 28100, Novara, NO, Italy",
+                "websiteUniversity": "https://www.conservatorionovara.it"
+            },
+            {
+                "name": "Conservatory of Music of Turin",
+                "address": "Via Mazzini, 11, 10123, Turin, TO, Italy",
+                "websiteUniversity": "https://www.conservatoriotorino.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Turin",
+                "address": "Via Accademia Albertina, 6, 10123, Turin, TO, Italy",
+                "websiteUniversity": "https://www.accademialbertina.it"
+            },
+            {
+                "name": "Conservatory of Music of Cuneo",
+                "address": "Via Roma, 19, 12100, Cuneo, CN, Italy",
+                "websiteUniversity": "https://www.conservatoriocuneo.it"
+            }
+        ]
+    },
+    "IT42": {
+        "name": "Liguria",
+        "universities": [
+            {
+                "name": "University of Genoa",
+                "address": "Via Balbi, 5, 16126, Genoa, GE, Italy",
+                "websiteUniversity": "https://www.unige.it"
+            },
+            {
+                "name": "Conservatory of Music of La Spezia",
+                "address": "Via XX Settembre, 34, 19100, La Spezia, SP, Italy",
+                "websiteUniversity": "https://www.conservatoriolaspezia.it"
+            },
+            {
+                "name": "Academy of Fine Arts 'Istituto I. Duncan' of Sanremo",
+                "address": "Sanremo, IM, Italy",
+                "websiteUniversity": "https://www.istitutoiduncan.it"
+            },
+            {
+                "name": "Conservatory of Music of Genoa",
+                "address": "Via Albaro, 38, 16145, Genoa, GE, Italy",
+                "websiteUniversity": "https://www.conservatoriogenova.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Genoa",
+                "address": "Largo Pertini, 4, 16121, Genoa, GE, Italy",
+                "websiteUniversity": "https://www.accademiabelleartigena.it"
+            }
+        ]
+    },
+    "IT25": {
+        "name": "Lombardy",
+        "universities": [
+            {
+                "name": "University Vita-Salute San Raffaele",
+                "address": "Via Olgettina, 58, 20132, Milan, MI, Italy",
+                "websiteUniversity": "https://www.unisr.it"
+            },
+            {
+                "name": "Università Cattolica del Sacro Cuore",
+                "address": "Largo Gemelli, 1, 20123, Milan, MI, Italy",
+                "websiteUniversity": "https://www.unicatt.it"
+            },
+            {
+                "name": "University of Milan",
+                "address": "Via Festa del Perdono, 7, 20122, Milan, MI, Italy",
+                "websiteUniversity": "https://www.unimi.it"
+            },
+            {
+                "name": "University of Bergamo",
+                "address": "Via Salvecchio, 19, 24129, Bergamo, BG, Italy",
+                "websiteUniversity": "https://www.unibg.it"
+            },
+            {
+                "name": "Free University of Languages and Communication IULM",
+                "address": "Via Carlo Bo, 1, 20143, Milan, MI, Italy",
+                "websiteUniversity": "https://www.iulm.it"
+            },
+            {
+                "name": "University of Pavia",
+                "address": "Corso Strada Nuova, 65, 27100, Pavia, PV, Italy",
+                "websiteUniversity": "https://www.unipv.it"
+            },
+            {
+                "name": "E-Campus Telematic University",
+                "address": "Via Isimbardi, 10, 22060, Novedrate, CO, Italy",
+                "websiteUniversity": "https://www.uniecampus.it"
+            },
+            {
+                "name": "Polytechnic University of Milan",
+                "address": "Piazza Leonardo da Vinci, 32, 20133, Milan, MI, Italy",
+                "websiteUniversity": "https://www.polimi.it"
+            },
+            {
+                "name": "University of Brescia",
+                "address": "Piazza del Mercato, 15, 25121, Brescia, BS, Italy",
+                "websiteUniversity": "https://www.unibs.it"
+            },
+            {
+                "name": "Humanitas University",
+                "address": "Via Rita Levi Montalcini, 4, 20090, Pieve Emanuele, MI, Italy",
+                "websiteUniversity": "https://www.hunimed.eu"
+            },
+            {
+                "name": "University of Insubria Varese-Como",
+                "address": "Via Ravasi, 2, 21100, Varese, VA, Italy",
+                "websiteUniversity": "https://www.uninsubria.eu"
+            },
+            {
+                "name": "University 'Carlo Cattaneo' - LIUC",
+                "address": "Corso Matteotti, 22, 21053, Castellanza, VA, Italy",
+                "websiteUniversity": "https://www.liuc.it"
+            },
+            {
+                "name": "University of Milan-Bicocca",
+                "address": "Piazza dell'Ateneo Nuovo, 1, 20126, Milan, MI, Italy",
+                "websiteUniversity": "https://www.unimib.it"
+            },
+            {
+                "name": "Bocconi University",
+                "address": "Via Sarfatti, 25, 20136, Milan, MI, Italy",
+                "websiteUniversity": "https://www.unibocconi.eu"
+            },
+            {
+                "name": "Istituto Universitario di Studi Superiori (IUSS) - Pavia",
+                "address": "Palazzo del Broletto – Piazza della Vittoria, 27100, Pavia, PV, Italy",
+                "websiteUniversity": "https://www.iusspavia.it"
+            },
+            {
+                "name": "Accademia di Belle Arti Santagiulia - Brescia",
+                "address": "Brescia, BS, Italy",
+                "websiteUniversity": "https://www.accademiasantagiulia.it"
+            },
+            {
+                "name": "Conservatory of Music of Brescia",
+                "address": "Piazza Arturo Benedetti Michelangeli, 1, 25100, Brescia, BS, Italy",
+                "websiteUniversity": "https://www.conservatoriobrescia.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Brera",
+                "address": "Via Brera, 28, 20121, Milan, MI, Italy",
+                "websiteUniversity": "https://www.accademiadibrera.milano.it"
+            },
+            {
+                "name": "Conservatory of Music of Milan",
+                "address": "Via Conservatorio, 12, 20122, Milan, MI, Italy",
+                "websiteUniversity": "https://www.consmilano.it"
+            },
+            {
+                "name": "Raffles Milano International Design Institute",
+                "address": "Via Felice Casati, 16, 20124, Milan, MI, Italy",
+                "websiteUniversity": "https://www.rafflesmilano.it"
+            },
+            {
+                "name": "Conservatory of Music of Cremona",
+                "address": "Via Realdo Colombo, 1, 26100, Cremona, CR, Italy",
+                "websiteUniversity": "https://www.conservatoriocremona.it"
+            }
+        ]
+    },
+    "IT32": {
+        "name": "Trentino-Alto Adige",
+        "universities": [
+            {
+                "name": "University of Trento",
+                "address": "Via Calepina, 14, 38122, Trento, TN, Italy",
+                "websiteUniversity": "https://www.unitn.it"
+            },
+            {
+                "name": "Free University of Bozen-Bolzano",
+                "address": "Piazza Università 1, 39100, Bolzano, BZ, Italy",
+                "websiteUniversity": "https://www.unibz.it"
+            },
+            {
+                "name": "Conservatory of Music of Trento (Riva del Garda Section)",
+                "address": "Largo Guglielmo Marconi, 5, 38066, Riva del Garda, TN, Italy",
+                "websiteUniversity": "https://www.conservatoriotrento.it"
+            },
+            {
+                "name": "Conservatory of Music of Bolzano",
+                "address": "Piazza Domenicani, 19, 39100, Bolzano-Bozen, BZ, Italy",
+                "websiteUniversity": "https://www.conservatoriobolzano.it"
+            },
+            {
+                "name": "Trentino Art Academy",
+                "address": "Via del Brennero, 316, 38121, Trento, TN, Italy",
+                "websiteUniversity": "https://www.trentinoartacademy.it"
+            },
+            {
+                "name": "Conservatory of Music of Bolzano (German Section)",
+                "address": "Piazza Domenicani, 19, 39100, Bolzano-Bozen, BZ, Italy",
+                "websiteUniversity": "https://www.conservatoriobolzano.it"
+            },
+            {
+                "name": "Conservatory of Music of Trento",
+                "address": "Via Santa Maria Maddalena, 38100, Trento, TN, Italy",
+                "websiteUniversity": "https://www.conservatoriotrento.it"
+            }
+        ]
+    },
+    "IT34": {
+        "name": "Veneto",
+        "universities": [
+            {
+                "name": "University of Padua",
+                "address": "Via 8 Febbraio, 2, 35122, Padua, PD, Italy",
+                "websiteUniversity": "https://www.unipd.it"
+            },
+            {
+                "name": "Ca' Foscari University of Venice",
+                "address": "Sestiere di Dorsoduro, 3246, 30123, Venice, VE, Italy",
+                "websiteUniversity": "https://www.unive.it"
+            },
+            {
+                "name": "IUAV University of Venice",
+                "address": "Sestiere di Santa Croce, 191, 30125, Venice, VE, Italy",
+                "websiteUniversity": "https://www.iuav.it"
+            },
+            {
+                "name": "University of Verona",
+                "address": "Via dell'Artigliere, 8, 37129, Verona, VR, Italy",
+                "websiteUniversity": "https://www.univr.it"
+            },
+            {
+                "name": "Conservatory of Music of Rovigo",
+                "address": "Corso del Popolo, 241, 45100, Rovigo, RO, Italy",
+                "websiteUniversity": "https://www.conservatoriorovigo.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Venice",
+                "address": "Dorsoduro 423, 30123, Venice, VE, Italy",
+                "websiteUniversity": "https://www.accademiavenezia.it"
+            },
+            {
+                "name": "Conservatory of Music of Adria",
+                "address": "Viale Maddalena, 2, 45011, Adria, RO, Italy",
+                "websiteUniversity": "https://www.conservatorioadria.it"
+            },
+            {
+                "name": "Conservatory of Music of Castelfranco Veneto",
+                "address": "Via Garibaldi, 25, 31033, Castelfranco Veneto, TV, Italy",
+                "websiteUniversity": "https://www.conscfv.it"
+            },
+            {
+                "name": "Conservatory of Music of Venice",
+                "address": "San Marco, 2810, 30124, Venice, VE, Italy",
+                "websiteUniversity": "https://www.conservatoriovenezia.net"
+            },
+            {
+                "name": "Conservatory of Music of Verona",
+                "address": "Via Massalongo, 2, 37100, Verona, VR, Italy",
+                "websiteUniversity": "https://www.conservatorioverona.it"
+            },
+            {
+                "name": "Conservatory of Music of Vicenza",
+                "address": "Contrà Domenico, 33, 36100, Vicenza, VI, Italy",
+                "websiteUniversity": "https://www.consvi.it"
+            },
+            {
+                "name": "Conservatory of Music of Padua",
+                "address": "Via Eremitani, 6, 35100, Padua, PD, Italy",
+                "websiteUniversity": "https://www.conservatoriopadova.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Verona",
+                "address": "Via C. Montanari, 5, 37122, Verona, VR, Italy",
+                "websiteUniversity": "https://www.accademiabelleartiverona.it"
+            },
+            {
+                "name": "Galileo Scientific and Technological Park",
+                "address": "Corso Stati Uniti 14 BIS, 35127, Padua, PD, Italy",
+                "websiteUniversity": "https://www.galileopark.it"
+            }
+        ]
+    },
+    "IT36": {
+        "name": "Friuli Venezia Giulia",
+        "universities": [
+            {
+                "name": "University of Udine",
+                "address": "Via Palladio, 8, 33100, Udine, UD, Italy",
+                "websiteUniversity": "https://www.uniud.it"
+            },
+            {
+                "name": "University of Trieste",
+                "address": "Piazzale Europa, 1, 34127, Trieste, TS, Italy",
+                "websiteUniversity": "https://www.units.it"
+            },
+            {
+                "name": "International School for Advanced Studies (SISSA)",
+                "address": "Via Bonomea, 265, 34136, Trieste, TS, Italy",
+                "websiteUniversity": "https://www.sissa.it"
+            },
+            {
+                "name": "Conservatory of Music of Trieste",
+                "address": "Via Carlo Ghega, 12, 34123, Trieste, TS, Italy",
+                "websiteUniversity": "https://www.conservatorio.trieste.it"
+            },
+            {
+                "name": "Academy of Fine Arts 'G.B. Tiepolo'",
+                "address": "Viale Ungheria, 22, 33100, Udine, UD, Italy",
+                "websiteUniversity": "https://www.accademiabelleartiudine.it"
+            },
+            {
+                "name": "Conservatory of Music of Udine",
+                "address": "Piazza 1° Maggio, 29, 33100, Udine, UD, Italy",
+                "websiteUniversity": "https://www.conservatorioudine.it"
+            }
+        ]
+    },
+    "IT52": {
+        "name": "Tuscany",
+        "universities": [
+            {
+                "name": "University of Pisa",
+                "address": "Lungarno Pacinotti, 43/44, 56126, Pisa, PI, Italy",
+                "websiteUniversity": "https://www.unipi.it"
+            },
+            {
+                "name": "Scuola Normale Superiore di Pisa",
+                "address": "Piazza dei Cavalieri, 7, 56126, Pisa, PI, Italy",
+                "websiteUniversity": "https://www.sns.it"
+            },
+            {
+                "name": "Sant'Anna School of Advanced Studies",
+                "address": "Piazza Martiri della Libertà, 33, 56127, Pisa, PI, Italy",
+                "websiteUniversity": "https://www.santannapisa.it"
+            },
+            {
+                "name": "University of Siena",
+                "address": "Via Banchi di Sotto, 55, 53100, Siena, SI, Italy",
+                "websiteUniversity": "https://www.unisi.it"
+            },
+            {
+                "name": "University of Florence",
+                "address": "Piazza San Marco, 4, 50121, Florence, FI, Italy",
+                "websiteUniversity": "https://www.unifi.it"
+            },
+            {
+                "name": "University for Foreigners of Siena",
+                "address": "Piazza Rosselli, 27-28, 53100, Siena, SI, Italy",
+                "websiteUniversity": "https://www.unistrasi.it"
+            },
+            {
+                "name": "IUL Online University",
+                "address": "Via M. Buonarroti, 10, 5122, Florence, FI, Italy",
+                "websiteUniversity": "https://www.iuline.it"
+            },
+            {
+                "name": "IMT School for Advanced Studies Lucca",
+                "address": "Piazza San Ponziano, 6, 55100, Lucca, LU, Italy",
+                "websiteUniversity": "https://www.imtlucca.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Florence",
+                "address": "Via Ricasoli, 66, 50122, Florence, FI, Italy",
+                "websiteUniversity": "https://www.accademia.firenze.it"
+            },
+            {
+                "name": "Conservatory of Music of Florence",
+                "address": "Piazza delle Belle Arti, 2, 50122, Florence, FI, Italy",
+                "websiteUniversity": "https://www.conservatorio.firenze.it"
+            },
+            {
+                "name": "Accademia Italiana of Art, Fashion and Design",
+                "address": "Florence, FI, Italy",
+                "websiteUniversity": "https://www.accademiaitaliana.com"
+            },
+            {
+                "name": "Siena Jazz - National Academy of Jazz",
+                "address": "Siena, SI, Italy",
+                "websiteUniversity": "https://www.sienajazz.it"
+            },
+            {
+                "name": "Fiesole School of Music",
+                "address": "Fiesole, FI, Italy",
+                "websiteUniversity": "https://www.scuolamusicafiesole.it"
+            },
+            {
+                "name": "Modartech Institute",
+                "address": "Viale Rinaldo Piaggio, 7, 56025, Pontedera, PI, Italy",
+                "websiteUniversity": "https://www.modartech.com"
+            },
+            {
+                "name": "IED - European Institute of Design Florence",
+                "address": "Florence, FI, Italy",
+                "websiteUniversity": "https://www.ied.it"
+            },
+            {
+                "name": "Free Academy of Fine Arts of Florence",
+                "address": "Piazza di Badia a Ripoli 1/a, 50126, Florence, FI, Italy",
+                "websiteUniversity": "https://www.laba.biz"
+            },
+            {
+                "name": "Istituto Marangoni Florence",
+                "address": "Via de' Tornabuoni, 17, 50123, Florence, FI, Italy",
+                "websiteUniversity": "https://www.istitutomarangoni.com"
+            },
+            {
+                "name": "ISIA Florence",
+                "address": "Via Pisana, 79, 50143, Florence, FI, Italy",
+                "websiteUniversity": "https://www.isiadesign.fi.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Carrara",
+                "address": "Via Roma, 1, 54033, Carrara, MS, Italy",
+                "websiteUniversity": "https://www.accademiacarrara.it"
+            },
+            {
+                "name": "Conservatory of Music of Livorno",
+                "address": "Via Galileo Galilei, 40, 57122, Livorno, LI, Italy",
+                "websiteUniversity": "https://www.conservatorio.livorno.it"
+            },
+            {
+                "name": "Conservatory of Music of Siena",
+                "address": "Prato di Sant'Agostino, 2, 53100, Siena, SI, Italy",
+                "websiteUniversity": "https://www.conservatoriosiena.it"
+            },
+            {
+                "name": "Conservatory of Music of Lucca",
+                "address": "Piazza del Suffragio, 6, 55100, Lucca, LU, Italy",
+                "websiteUniversity": "https://www.conservatorio.lucca.it"
+            }
+        ]
+    },
+    "IT55": {
+        "name": "Umbria",
+        "universities": [
+            {
+                "name": "University of Perugia",
+                "address": "Piazza dell'Università, 1, 06123, Perugia, PG, Italy",
+                "websiteUniversity": "https://www.unipg.it"
+            },
+            {
+                "name": "University for Foreigners of Perugia",
+                "address": "Piazza Fortebraccio, 4 Palazzo Gallenga, 06122, Perugia, PG, Italy",
+                "websiteUniversity": "https://www.unistrapg.it"
+            },
+            {
+                "name": "Conservatory of Music of Perugia",
+                "address": "Piazza Mariotti, 2, 06123, Perugia, PG, Italy",
+                "websiteUniversity": "https://www.conservatorioperugia.it"
+            },
+            {
+                "name": "Italian Design Institute - Perugia",
+                "address": "Via Galeazzo Alessi 3/A, 06122, Perugia, PG, Italy",
+                "websiteUniversity": "https://www.iid.edu.it"
+            },
+            {
+                "name": "Conservatory of Music of Terni",
+                "address": "Via del Tribunale, 22, 05100, Terni, TR, Italy",
+                "websiteUniversity": "https://www.conservatorioterni.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Perugia",
+                "address": "Via S. Francesco, 5, 06123, Perugia, PG, Italy",
+                "websiteUniversity": "https://www.abaperugia.com"
+            }
+        ]
+    },
+    "IT62": {
+        "name": "Lazio",
+        "universities": [
+            {
+                "name": "Sapienza University of Rome",
+                "address": "Piazza Aldo Moro, 5, 00185, Rome, RM, Italy",
+                "websiteUniversity": "https://www.uniroma1.it"
+            },
+            {
+                "name": "University of Rome Tor Vergata",
+                "address": "Via Cracovia, 50, 00133, Rome, RM, Italy",
+                "websiteUniversity": "https://www.uniroma2.it"
+            },
+            {
+                "name": "Roma Tre University",
+                "address": "Via Ostiense, 133, 00154, Rome, RM, Italy",
+                "websiteUniversity": "https://www.uniroma3.it"
+            },
+            {
+                "name": "LUMSA University",
+                "address": "Via della Traspontina, 21, 00193, Rome, RM, Italy",
+                "websiteUniversity": "https://www.lumsa.it"
+            },
+            {
+                "name": "International University of Rome (UNINT)",
+                "address": "Via Cristoforo Colombo, 200, 00147, Rome, RM, Italy",
+                "websiteUniversity": "https://www.unint.eu"
+            },
+            {
+                "name": "University of Cassino and Southern Lazio",
+                "address": "Viale dell'Università - Rettorato Campus Universitario, 03043, Cassino, FR, Italy",
+                "websiteUniversity": "https://www.unicas.it"
+            },
+            {
+                "name": "University of Tuscia",
+                "address": "Via Santa Maria in Gradi, 4, 01100, Viterbo, VT, Italy",
+                "websiteUniversity": "https://www.unitus.it"
+            },
+            {
+                "name": "Campus Bio-Medico University of Rome",
+                "address": "Via Alvaro del Portillo, 21, 00128, Rome, RM, Italy",
+                "websiteUniversity": "https://www.unicampus.it"
+            },
+            {
+                "name": "LUISS Guido Carli",
+                "address": "Viale Pola, 12, 00198, Rome, RM, Italy",
+                "websiteUniversity": "https://www.luiss.it"
+            },
+            {
+                "name": "Accademia di Belle Arti di Roma",
+                "address": "Via Ripetta, 222, 00186, Rome, RM, Italy",
+                "websiteUniversity": "https://www.accademiabelleartiroma.it"
+            },
+            {
+                "name": "Conservatory of Music of Rome",
+                "address": "Via dei Greci, 18, 00187, Rome, RM, Italy",
+                "websiteUniversity": "https://www.conservatoriosantacecilia.it"
+            },
+            {
+                "name": "ISIA of Rome",
+                "address": "Piazza della Maddalena, 53, 00186, Rome, RM, Italy",
+                "websiteUniversity": "https://www.isiaroma.it"
+            },
+            {
+                "name": "Unicusano - Niccolò Cusano University",
+                "address": "Via Don Carlo Gnocchi, 3, 00166, Rome, RM, Italy",
+                "websiteUniversity": "https://www.unicusano.it"
+            },
+            {
+                "name": "Telematic University San Raffaele",
+                "address": "Via di Val Cannuta, 247, 00166, Rome, RM, Italy",
+                "websiteUniversity": "https://www.unisanraffaele.gov.it"
+            },
+            {
+                "name": "Link Campus University",
+                "address": "Via del Casale di San Pio V, 44, 00165, Rome, RM, Italy",
+                "websiteUniversity": "https://www.unilink.it"
+            }
+        ]
+    },
+    "IT75": {
+        "name": "Puglia",
+        "universities": [
+            {
+                "name": "University of Bari Aldo Moro",
+                "address": "Piazza Umberto I, 1 Palazzo Ateneo, 70121, Bari, BA, Italy",
+                "websiteUniversity": "https://www.uniba.it"
+            },
+            {
+                "name": "Polytechnic University of Bari",
+                "address": "Via Amendola, 126/B, 70126, Bari, BA, Italy",
+                "websiteUniversity": "https://www.poliba.it"
+            },
+            {
+                "name": "University of Salento",
+                "address": "Piazza Tancredi, 7, 73100, Lecce, LE, Italy",
+                "websiteUniversity": "https://www.unisalento.it"
+            },
+            {
+                "name": "University of Foggia",
+                "address": "Via Gramsci, 89/91, 71122, Foggia, FG, Italy",
+                "websiteUniversity": "https://www.unifg.it"
+            },
+            {
+                "name": "LUM 'Giuseppe Degennaro'",
+                "address": "S.S. 100 Km 18, 70010, Casamassima, BA, Italy",
+                "websiteUniversity": "https://www.lum.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Foggia",
+                "address": "Corso Garibaldi, 35, 71100, Foggia, FG, Italy",
+                "websiteUniversity": "https://www.accademiabellearti.fg.it"
+            },
+            {
+                "name": "Conservatory of Music of Foggia (Rodi Garganico branch)",
+                "address": "Rodi Garganico, FG, Italy",
+                "websiteUniversity": "https://www.conservatoriofoggia.it"
+            },
+            {
+                "name": "Conservatory of Music of Monopoli",
+                "address": "Piazza S. Antonio, 27, 70043, Monopoli, BA, Italy",
+                "websiteUniversity": "https://www.conservatoriomonopoli.it"
+            },
+            {
+                "name": "Conservatory of Music of Lecce (Ceglie Messapica branch)",
+                "address": "Viale B. Luigi don Guanella, 2, 72013, Ceglie Messapica, BR, Italy",
+                "websiteUniversity": "https://www.conservatoriolecce.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Bari",
+                "address": "Via Tenente Gaetano De Vito Francesco, 2/N17, 70124, Bari, BA, Italy",
+                "websiteUniversity": "https://www.accademiabellearti.ba.it"
+            },
+            {
+                "name": "Conservatory of Music of Lecce",
+                "address": "Via A. Ciardo, 2, 73100, Lecce, LE, Italy",
+                "websiteUniversity": "https://www.conservatoriolecce.it"
+            },
+            {
+                "name": "Conservatory of Music of Bari",
+                "address": "Via Michele Cifarelli, 26, 70124, Bari, BA, Italy",
+                "websiteUniversity": "https://www.conservatoriobari.it"
+            },
+            {
+                "name": "Conservatory of Music of Foggia",
+                "address": "Piazza Negri, 13, 71100, Foggia, FG, Italy",
+                "websiteUniversity": "https://www.conservatoriofoggia.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Lecce",
+                "address": "Via Libertini, 3, 73100, Lecce, LE, Italy",
+                "websiteUniversity": "https://www.accademiabellearti.le.it"
+            },
+            {
+                "name": "Conservatory of Music of Taranto",
+                "address": "Via Duomo, 276, 74123, Taranto, TA, Italy",
+                "websiteUniversity": "https://www.conservatoriotaranto.it"
+            }
+        ]
+    },
+    "IT72": {
+        "name": "Campania",
+        "universities": [
+            {
+                "name": "University of Naples Federico II",
+                "address": "Corso Umberto I, 40, 80138, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.unina.it"
+            },
+            {
+                "name": "University of Salerno",
+                "address": "Via Giovanni Paolo II, 132, 84084, Fisciano - Salerno, SA, Italy",
+                "websiteUniversity": "https://www.unisa.it"
+            },
+            {
+                "name": "University of Sannio",
+                "address": "Piazza Guerrazzi, 1, 82100, Benevento, BN, Italy",
+                "websiteUniversity": "https://www.unisannio.it"
+            },
+            {
+                "name": "University of Naples 'Parthenope'",
+                "address": "Via Ammiraglio Ferdinando Acton, 38, 80133, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.uniparthenope.it"
+            },
+            {
+                "name": "University of Naples 'L'Orientale'",
+                "address": "Via Chiatamone, 61/62, 80121, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.unior.it"
+            },
+            {
+                "name": "University Suor Orsola Benincasa",
+                "address": "Via Suor Orsola, 10, 80135, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.unisob.na.it"
+            },
+            {
+                "name": "University of Campania 'Luigi Vanvitelli'",
+                "address": "Viale Abramo Lincoln n.5, 81100, Caserta, CE, Italy",
+                "websiteUniversity": "https://www.unicampania.it"
+            },
+            {
+                "name": "Scuola Superiore Meridionale",
+                "address": "Via Mezzocannone, 4, 80131, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.ssm.unina.it"
+            },
+            {
+                "name": "Telematic University 'Giustino Fortunato'",
+                "address": "Viale R. Delcogliano, 12, 82100, Benevento, BN, Italy",
+                "websiteUniversity": "https://www.unifortunato.eu"
+            },
+            {
+                "name": "Telematic University Pegaso",
+                "address": "Centro Direzionale, Isola F2, 80143, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.unipegaso.it"
+            },
+            {
+                "name": "Conservatory of Music of Benevento",
+                "address": "Via Mario La Vipera, 82100, Benevento, BN, Italy",
+                "websiteUniversity": "https://www.conservatoriobenevento.it"
+            },
+            {
+                "name": "Conservatory of Music of Avellino",
+                "address": "Via Circumvallazione, 83100, Avellino, AV, Italy",
+                "websiteUniversity": "https://www.conservatorioavellino.it"
+            },
+            {
+                "name": "Conservatory of Music of Salerno",
+                "address": "Via Giuseppe Paesano n. 2, 84125, Salerno, SA, Italy",
+                "websiteUniversity": "https://www.conservatoriosalerno.it"
+            },
+            {
+                "name": "Conservatory of Music of Naples",
+                "address": "Via San Pietro a Majella, 35, 80138, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.conservatoriomajella.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Naples",
+                "address": "Via Santa Maria di Costantinopoli, 107, 80138, Napoli, NA, Italy",
+                "websiteUniversity": "https://www.accademiadinapoli.it"
+            },
+            {
+                "name": "Academy of Fashion - Naples",
+                "address": "Napoli, NA, Italy",
+                "websiteUniversity": "https://www.accademiamoda.it"
+            }
+        ]
+    },
+    "IT67": {
+        "name": "Molise",
+        "universities": [
+            {
+                "name": "University of Molise",
+                "address": "Via de Sanctis, s.n. II Edificio Polifunzionale, 86100, Campobasso, CB, Italy",
+                "websiteUniversity": "https://www.unimol.it"
+            },
+            {
+                "name": "Conservatory of Music of Campobasso",
+                "address": "Via Principe di Piemonte, 2, 86100, Campobasso, CB, Italy",
+                "websiteUniversity": "https://www.conservatoriocb.it"
+            }
+        ]
+    },
+    "IT78": {
+        "name": "Calabria",
+        "universities": [
+            {
+                "name": "University of Calabria",
+                "address": "Via Pietro Bucci, 87036, Arcavacata di Rende, CS, Italy",
+                "websiteUniversity": "https://www.unical.it"
+            },
+            {
+                "name": "Magna Græcia University of Catanzaro",
+                "address": "Viale Europa - Loc. Germaneto, 88100, Catanzaro, CZ, Italy",
+                "websiteUniversity": "https://www.unicz.it"
+            },
+            {
+                "name": "Mediterranea University of Reggio Calabria",
+                "address": "Via dell'Universita' n. 25, 89124, Reggio Calabria, RC, Italy",
+                "websiteUniversity": "https://www.unirc.it"
+            },
+            {
+                "name": "University for Foreigners 'Dante Alighieri' of Reggio Calabria",
+                "address": "Via Torrione, 95, 89125, Reggio Calabria, RC, Italy",
+                "websiteUniversity": "https://www.unistrada.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Reggio Calabria",
+                "address": "Via XXV Luglio, 10, 89121, Reggio di Calabria, RC, Italy",
+                "websiteUniversity": "https://www.abareggiocalabria.it"
+            },
+            {
+                "name": "Conservatory of Music of Reggio Calabria",
+                "address": "Via Aschenez, 1/P, 89122, Reggio di Calabria, RC, Italy",
+                "websiteUniversity": "https://www.conservatorioreggiocalabria.it"
+            },
+            {
+                "name": "Conservatory of Music of Cosenza",
+                "address": "Via Portapiana, 87100, Cosenza, CS, Italy",
+                "websiteUniversity": "https://www.conservatoriocosenza.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Catanzaro",
+                "address": "Via Tommaso Campanella, 182 (Mater Domini), 88100, Catanzaro, CZ, Italy",
+                "websiteUniversity": "https://www.abacatanzaro.it"
+            },
+            {
+                "name": "Conservatory of Music of Vibo Valentia",
+                "address": "Via Affaccio, 88018, Vibo Valentia, VV, Italy",
+                "websiteUniversity": "https://www.conservatoriovv.it"
+            },
+            {
+                "name": "Conservatory of Music of Nocera Terinese",
+                "address": "Via Dante Alighieri, 8, 88047, Nocera Terinese, CZ, Italy",
+                "websiteUniversity": "https://www.conservatorionoceraterinese.it"
+            }
+        ]
+    },
+    "IT82": {
+        "name": "Sicilia",
+        "universities": [
+            {
+                "name": "University of Palermo",
+                "address": "P.zza della Marina, 61 Pal. Steri, 90133, Palermo, PA, Italy",
+                "websiteUniversity": "https://www.unipa.it"
+            },
+            {
+                "name": "University of Catania",
+                "address": "P.zza dell'Universita', 2, 95124, Catania, CT, Italy",
+                "websiteUniversity": "https://www.unict.it"
+            },
+            {
+                "name": "University of Messina",
+                "address": "P.zza S. Pugliatti, 1, 98122, Messina, ME, Italy",
+                "websiteUniversity": "https://www.unime.it"
+            },
+            {
+                "name": "UKE - Università Kore di Enna",
+                "address": "Via delle Olimpiadi, 4, 94100, Enna Bassa, EN, Italy",
+                "websiteUniversity": "https://www.unikore.it"
+            },
+            {
+                "name": "Accademia di Belle Arti Leg. Ricon. Rosario Gagliardi di Siracusa",
+                "address": "Siracusa, SR, Italy",
+                "websiteUniversity": "https://www.accademiagagliardi.it"
+            },
+            {
+                "name": "Conservatory of Music of Palermo",
+                "address": "Via Squarcialupo, 45, 90133, Palermo, PA, Italy",
+                "websiteUniversity": "https://www.conservatoriopalermo.it"
+            },
+            {
+                "name": "Conservatory of Music of Trapani",
+                "address": "Via Francesco Sceusa, 1, 91100, Trapani, TP, Italy",
+                "websiteUniversity": "https://www.conservatoriotrapani.it"
+            },
+            {
+                "name": "Academy ABADIR - Sant'Agata Li Battiati (CT)",
+                "address": "Sant'Agata Li Battiati, CT, Italy",
+                "websiteUniversity": "https://www.abadir.net"
+            },
+            {
+                "name": "Conservatory of Music of Messina",
+                "address": "Via Bonino, 1, 98100, Messina, ME, Italy",
+                "websiteUniversity": "https://www.conservatoriomessina.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Palermo",
+                "address": "Via Papireto, 18/20, 90134, Palermo, PA, Italy",
+                "websiteUniversity": "https://www.accademiadipalermo.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Catania",
+                "address": "Via del Bosco 34/a, 95125, Catania, CT, Italy",
+                "websiteUniversity": "https://www.accademiadicatania.it"
+            },
+            {
+                "name": "Conservatory of Music of Catania",
+                "address": "Via Istituto Sacro Cuore, 3, 95125, Catania, CT, Italy",
+                "websiteUniversity": "https://www.conservatoriocatania.it"
+            },
+            {
+                "name": "Conservatory of Music of Ribera",
+                "address": "Corso Umberto I, 359, 92016, Ribera, AG, Italy",
+                "websiteUniversity": "https://www.conservatorioribera.it"
+            },
+            {
+                "name": "Conservatory of Music of Caltanissetta",
+                "address": "Corso Umberto I°, 84, 93100, Caltanissetta, CL, Italy",
+                "websiteUniversity": "https://www.conservatoriocaltanissetta.it"
+            }
+        ]
+    },
+    "IT88": {
+        "name": "Sardegna",
+        "universities": [
+            {
+                "name": "University of Sassari",
+                "address": "P.zza dell'Universita', 21, 07100, Sassari, SS, Italy",
+                "websiteUniversity": "https://www.uniss.it"
+            },
+            {
+                "name": "University of Cagliari",
+                "address": "Via Universita', 40, 09124, Cagliari, CA, Italy",
+                "websiteUniversity": "https://www.unica.it"
+            },
+            {
+                "name": "Conservatory of Music of Cagliari",
+                "address": "P.zza E. Porrino, 1, 09100, Cagliari, CA, Italy",
+                "websiteUniversity": "https://www.conservatoriocagliari.it"
+            },
+            {
+                "name": "Istituto Europeo del Design (IED) - Cagliari",
+                "address": "Cagliari, CA, Italy",
+                "websiteUniversity": "https://www.ied.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Sassari",
+                "address": "Via Duca degli Abruzzi, 4, 07100, Sassari, SS, Italy",
+                "websiteUniversity": "https://www.accademiadisassari.it"
+            },
+            {
+                "name": "Conservatory of Music of Sassari",
+                "address": "Piazzale Cappuccini, 07100, Sassari, SS, Italy",
+                "websiteUniversity": "https://www.conservatoriosassari.it"
+            }
+        ]
+    },
+    "IT45": {
+        "name": "Emilia-Romagna",
+        "universities": [
+            {
+                "name": "Alma Mater Studiorum - University of Bologna",
+                "address": "Via Zamboni, 33, 40126, Bologna, BO, Italy",
+                "websiteUniversity": "https://www.unibo.it"
+            },
+            {
+                "name": "University of Ferrara",
+                "address": "Ex Convento di S.Lucia-v.Ariosto 35, 44100, Ferrara, FE, Italy",
+                "websiteUniversity": "https://www.unife.it"
+            },
+            {
+                "name": "University of Parma",
+                "address": "Via Universita', 12, 43100, Parma, PR, Italy",
+                "websiteUniversity": "https://www.unipr.it"
+            },
+            {
+                "name": "University of Modena and Reggio Emilia",
+                "address": "Via Universita', 4, 41121, Modena, MO, Italy",
+                "websiteUniversity": "https://www.unimore.it"
+            },
+            {
+                "name": "The Bernstein School of Musical Theater",
+                "address": "Via Paolo Nanni Costa 12/6, 40133, Bologna, BO, Italy",
+                "websiteUniversity": "https://www.bsmt.it"
+            },
+            {
+                "name": "Conservatory of Music of Piacenza",
+                "address": "Via S. Franca, 35, 29100, Piacenza, PC, Italy",
+                "websiteUniversity": "https://www.conservatoriopiacenza.it"
+            },
+            {
+                "name": "Conservatory of Music of Ferrara",
+                "address": "Largo Antonioni, 1, 44121, Ferrara, FE, Italy",
+                "websiteUniversity": "https://www.conservatorioferrara.it"
+            },
+            {
+                "name": "Libera Accademia di Belle Arti di Rimini",
+                "address": "Via Roma, 64B, 47921, Rimini, RN, Italy",
+                "websiteUniversity": "https://www.laba.edu"
+            },
+            {
+                "name": "ISIA of Faenza",
+                "address": "Corso Mazzini, 93, 48018, Faenza, RA, Italy",
+                "websiteUniversity": "https://www.isiafaenza.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Bologna",
+                "address": "Via delle Belle Arti, 54, 40126, Bologna, BO, Italy",
+                "websiteUniversity": "https://www.ababo.it"
+            },
+            {
+                "name": "Conservatory of Music of Bologna",
+                "address": "P.zza Rossini, 2, 40126, Bologna, BO, Italy",
+                "websiteUniversity": "https://www.conservatoriobologna.it"
+            },
+            {
+                "name": "Conservatory of Music of Parma",
+                "address": "Via del Conservatorio, 27, 43100, Parma, PR, Italy",
+                "websiteUniversity": "https://www.conservatorioparma.it"
+            },
+            {
+                "name": "Conservatory of Music of Ravenna",
+                "address": "Via di Roma, 33, 48121, Ravenna, RA, Italy",
+                "websiteUniversity": "https://www.conservatorioravenna.it"
+            },
+            {
+                "name": "Conservatory of Music of Reggio Emilia",
+                "address": "Via Dante Alighieri, 11, 42121, Reggio nell'Emilia, RE, Italy",
+                "websiteUniversity": "https://www.conservatorioreggioemilia.it"
+            },
+            {
+                "name": "Conservatory of Music of Modena and Carpi",
+                "address": "Via Carlo Goldoni, 10, 41121, Modena, MO, Italy",
+                "websiteUniversity": "https://www.conservatoriomodena.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Ravenna",
+                "address": "Via delle Industrie, 76, 48122, Ravenna, RA, Italy",
+                "websiteUniversity": "https://www.accademiaravenna.it"
+            }
+        ]
+    },
+    "IT57": {
+        "name": "Marche",
+        "universities": [
+            {
+                "name": "Polytechnic University of Marche",
+                "address": "P.zza Roma, 22, 60121, Ancona, AN, Italy",
+                "websiteUniversity": "https://www.univpm.it"
+            },
+            {
+                "name": "University of Camerino",
+                "address": "Piazza Cavour 19/f, 62032, Camerino, MC, Italy",
+                "websiteUniversity": "https://www.unicam.it"
+            },
+            {
+                "name": "University of Urbino Carlo Bo",
+                "address": "Via A. Saffi, 2, 61029, Urbino, PU, Italy",
+                "websiteUniversity": "https://www.uniurb.it"
+            },
+            {
+                "name": "University of Macerata",
+                "address": "Via Crescimbeni n.30/32, 62100, Macerata, MC, Italy",
+                "websiteUniversity": "https://www.unimc.it"
+            },
+            {
+                "name": "Academy of Fine Arts of Macerata",
+                "address": "Via Berardi 6, 62100, Macerata, MC, Italy",
+                "websiteUniversity": "https://www.abamc.it"
+            },
+            {
+                "name": "ISIA of Urbino",
+                "address": "Via S. Chiara, 36, 61029, Urbino, PU, Italy",
+                "websiteUniversity": "https://www.isiaurbino.net"
+            },
+            {
+                "name": "Academy of Fine Arts of Urbino",
+                "address": "Via dei Maceri, 21, 61029, Urbino, PU, Italy",
+                "websiteUniversity": "https://www.accademiadiurbino.it"
+            },
+            {
+                "name": "Istituto Poliarte - Ancona",
+                "address": "Via Miano, 41 a/b, 60125, Ancona, AN, Italy",
+                "websiteUniversity": "https://www.poliarte.net"
+            },
+            {
+                "name": "Conservatory of Music of Fermo",
+                "address": "Via dell'Universita', 16, 63023, Fermo, FM, Italy",
+                "websiteUniversity": "https://www.conservatoriofermo.it"
+            },
+            {
+                "name": "Conservatory of Music of Pesaro",
+                "address": "Piazza Olivieri, 5, 61100, Pesaro, PU, Italy",
+                "websiteUniversity": "https://www.conservatoriopesaro.it"
+            }
+        ]
+    }
+}
